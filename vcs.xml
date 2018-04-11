@@ -6,8 +6,12 @@
           <option name="url" value="git@github.com:openai/retro.git" />
           <option name="userName" value="" />
         </UrlAndUserName>
+        <UrlAndUserName>
+          <option name="url" value="git@github.com:benkant/retro.git" />
+          <option name="userName" value="" />
+        </UrlAndUserName>
       </list>
     </option>
-    <option name="cloneParentDir" value="$USER_HOME$/code/vendor" />
+    <option name="cloneParentDir" value="$USER_HOME$/code" />
   </component>
 </application>
