@@ -20,12 +20,19 @@
       <register name="&quot;" type="2">
         <text encoding="base64">ICAgICAgICAjIEltcGxlbWVudCB0aGlzIHBsYWNlaG9sZGVyLgo=</text>
       </register>
+      <register name=":" type="4">
+        <text>q</text>
+      </register>
     </registers>
     <search>
       <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history />
+    <history>
+      <history-cmd>
+        <entry>q</entry>
+      </history-cmd>
+    </history>
     <shortcut-conflicts />
   </component>
 </application>
