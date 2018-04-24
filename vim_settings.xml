@@ -3,12 +3,35 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="vim_settings.xml" timestamp="1524563384324">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1524560895764">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1524563431348">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="/LLDB" timestamp="1524216211293">
         <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/code/EPIJudge/epi_judge_python/circular_queue.py" timestamp="1524239868833">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
     </filemarks>
     <jumps />
     <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgICAgICAjIEltcGxlbWVudCB0aGlzIHBsYWNlaG9sZGVyLgo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgICAgICAjIEltcGxlbWVudCB0aGlzIHBsYWNlaG9sZGVyLgo=</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAjIEltcGxlbWVudCB0aGlzIHBsYWNlaG9sZGVyLgo=</text>
+      </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
