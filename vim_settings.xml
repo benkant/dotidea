@@ -6,10 +6,15 @@
       <file name="vim_settings.xml" timestamp="1524563384324">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Dummy.txt" timestamp="1524560895764">
+      <file name="/Dummy.txt" timestamp="1524563586767">
+        <mark key="[" line="0" column="23" />
+        <mark key="]" line="0" column="26" />
+        <mark key="." line="0" column="26" />
+      </file>
+      <file name="/code.py" timestamp="1524563655132">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1524563431348">
+      <file name="/Python Console" timestamp="1524563676558">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/LLDB" timestamp="1524216211293">
