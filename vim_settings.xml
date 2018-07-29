@@ -9,6 +9,12 @@
     </filemarks>
     <jumps />
     <registers>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIC8vIEltcGxlbWVudCB0aGlzIHBsYWNlaG9sZGVyLgo=</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIC8vIEltcGxlbWVudCB0aGlzIHBsYWNlaG9sZGVyLgo=</text>
+      </register>
       <register name=":" type="4">
         <text>q</text>
       </register>
@@ -18,13 +24,14 @@
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
       <history-cmd>
+        <entry>run</entry>
         <entry>q</entry>
       </history-cmd>
-      <history-expr />
-      <history-input />
     </history>
     <shortcut-conflicts />
+    <editor>
+      <key-repeat enabled="true" />
+    </editor>
   </component>
 </application>
