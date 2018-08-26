@@ -25,11 +25,11 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/tmp/focus/focus.py" timestamp="1535324980246">
-        <mark key="[" line="23" column="45" />
-        <mark key="]" line="22" column="53" />
-        <mark key="." line="22" column="53" />
-        <mark key="^" line="22" column="53" />
+      <file name="$USER_HOME$/tmp/focus/focus.py" timestamp="1535326000817">
+        <mark key="[" line="25" column="17" />
+        <mark key="]" line="25" column="17" />
+        <mark key="." line="25" column="17" />
+        <mark key="^" line="11" column="70" />
       </file>
     </filemarks>
     <jumps />
@@ -41,13 +41,13 @@
         <text encoding="base64">ICAgICAgICAjIEltcGxlbWVudCB0aGlzIHBsYWNlaG9sZGVyLgo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>d</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text>d</text>
+        <text encoding="base64">IA==</text>
       </register>
     </registers>
     <search>
