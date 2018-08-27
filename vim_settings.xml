@@ -25,23 +25,38 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/tmp/focus/focus.py" timestamp="1535326000817">
-        <mark key="[" line="25" column="17" />
-        <mark key="]" line="25" column="17" />
-        <mark key="." line="25" column="17" />
-        <mark key="^" line="11" column="70" />
+      <file name="$USER_HOME$/tmp/focus/focus.py" timestamp="1535330925050">
+        <mark key="[" line="39" column="18" />
+        <mark key="]" line="39" column="20" />
+        <mark key="^" line="39" column="20" />
+        <mark key="." line="39" column="20" />
       </file>
     </filemarks>
     <jumps />
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICAgICAjIEltcGxlbWVudCB0aGlzIHBsYWNlaG9sZGVyLgo=</text>
+        <text encoding="base64">ICAgIHByaW50KCJTZXNzaW9ucyBwZXIgbW9udGg6IHswfVxuXG4iLmZvcm1hdChzZXNzaW9uc19wbSkpCg==</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgICAgICAjIEltcGxlbWVudCB0aGlzIHBsYWNlaG9sZGVyLgo=</text>
+        <text encoding="base64">ICAgIHByaW50KCIiKQo=</text>
       </register>
       <register name="&quot;" type="4">
         <text encoding="base64">IA==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHByaW50KHNlc3Npb25zKQo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIHByaW50KCIiKQo=</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgICAgICAjIEltcGxlbWVudCB0aGlzIHBsYWNlaG9sZGVyLgo=</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
