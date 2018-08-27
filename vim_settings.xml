@@ -14,7 +14,7 @@
       <file name="/code.py" timestamp="1535324533744">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="/Python Console" timestamp="1524567681547">
+      <file name="/Python Console" timestamp="1535332456269">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/LLDB" timestamp="1524216211293">
@@ -25,23 +25,23 @@
         <mark key="]" line="13" column="0" />
         <mark key="." line="13" column="0" />
       </file>
-      <file name="$USER_HOME$/tmp/focus/focus.py" timestamp="1535330925050">
-        <mark key="[" line="39" column="18" />
-        <mark key="]" line="39" column="20" />
-        <mark key="^" line="39" column="20" />
-        <mark key="." line="39" column="20" />
+      <file name="$USER_HOME$/tmp/focus/focus.py" timestamp="1535332076193">
+        <mark key="[" line="20" column="53" />
+        <mark key="]" line="20" column="55" />
+        <mark key="^" line="20" column="55" />
+        <mark key="." line="20" column="55" />
       </file>
     </filemarks>
     <jumps />
     <registers>
       <register name="0" type="2">
-        <text encoding="base64">ICAgIHByaW50KCJTZXNzaW9ucyBwZXIgbW9udGg6IHswfVxuXG4iLmZvcm1hdChzZXNzaW9uc19wbSkpCg==</text>
+        <text encoding="base64">ICAgIHByaW50KCJUb3RhbCBob3VycyBwZXIgZGF5IHswfVxuIi5mb3JtYXQoZGF5LzYwKSkK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgIHByaW50KCIiKQo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text encoding="base64">IA==</text>
+        <text>s</text>
       </register>
       <register name="2" type="2">
         <text encoding="base64">ICAgIHByaW50KHNlc3Npb25zKQo=</text>
@@ -62,7 +62,7 @@
         <text>w</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>s</text>
       </register>
     </registers>
     <search>
