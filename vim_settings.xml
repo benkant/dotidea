@@ -1,25 +1,86 @@
 <application>
   <component name="VimSettings">
-    <state version="4" enabled="true" />
+    <state version="4" enabled="false" />
     <globalmarks />
     <filemarks>
-      <file name="/Dummy.txt" timestamp="1536372876133">
+      <file name="vim_settings.xml" timestamp="1524563384324">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Dummy.txt" timestamp="1532824265242">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="26" />
+        <mark key="." line="0" column="26" />
+      </file>
+      <file name="/code.py" timestamp="1535324533744">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/Python Console" timestamp="1535674154995">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/a.dummy" timestamp="1535672498320">
         <mark key="[" line="0" column="0" />
       </file>
       <file name="/LLDB" timestamp="1524216211293">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/code/mono/util/focus_ben.py" timestamp="1535674497985">
+        <mark key="[" line="47" column="30" />
+        <mark key="]" line="47" column="86" />
+        <mark key="." line="47" column="86" />
+        <mark key="^" line="47" column="86" />
+      </file>
+      <file name="$USER_HOME$/code/EPIJudge/epi_judge_python/circular_queue.py" timestamp="1524239868833">
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
+      </file>
+      <file name="$USER_HOME$/tmp/focus/focus.py" timestamp="1535332076193">
+        <mark key="[" line="20" column="53" />
+        <mark key="]" line="20" column="55" />
+        <mark key="^" line="20" column="55" />
+        <mark key="." line="20" column="55" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIC8vIEltcGxlbWVudCB0aGlzIHBsYWNlaG9sZGVyLgo=</text>
+      <register name="&quot;" type="4">
+        <text>(</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIC8vIEltcGxlbWVudCB0aGlzIHBsYWNlaG9sZGVyLgo=</text>
+      <register name="-" type="4">
+        <text>(</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">ICAgIHByaW50KCJUb3RhbCBob3VycyBwZXIgZGF5IHswfVxuIi5mb3JtYXQoZGF5LzYwKSkK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ZGQgICAgIyBzZXNzaW9ucyBwZXIgbW9udGggKiByYXRpbwo=</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgICMgc2Vzc2lvbnMgcGVyIGRheSAqIHJhdGlvCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">ICAgIGRheSA9IFJPVU5EX01JTlMgKiBST1VORFNfUEVSX0RBWSAjIHRvdGFsIHdhbGwgdGltZSBtaW51dGVzIHBlciBkYXkK</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIFJPVU5EU19QRVJfREFZID0gREFJTFlfU0VTU0lPTlNfR09BTCAvIFNFU1NJT05TX1BFUl9ST1VORCAjIG51bWJlciBvZiByb3VuZHMgcGVyIGRheQo=</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIFJPVU5EX01JTlMgPSAoU0VTU0lPTlNfUEVSX1JPVU5EICogU0VTU0lPTl9NSU5TICsgU0VTU0lPTlNfUEVSX1JPVU5EICogKEJSRUFLX01JTlNfQkVUV0VFTl9TRVNTSU9OUyAtIDEpKSArIEJSRUFLX01JTlNfQkVUV0VFTl9ST1VORFMgICMgd2FsbCB0aW1lIG1pbnV0ZXMgaW4gYSByb3VuZAo=</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
-        <text>q</text>
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -29,15 +90,12 @@
     <history>
       <history-search />
       <history-cmd>
-        <entry>run</entry>
         <entry>q</entry>
+        <entry>w</entry>
       </history-cmd>
       <history-expr />
       <history-input />
     </history>
     <shortcut-conflicts />
-    <editor>
-      <key-repeat enabled="true" />
-    </editor>
   </component>
 </application>
